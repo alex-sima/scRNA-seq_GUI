@@ -7,7 +7,7 @@ Files
  * pairWiseTests.rds: R object with the coefficient and p values of tests on genes that are significant after cytokine treatment (not publicly available)
  * treatments.so.rds: R Seurat object with QC, Normalization, and PCA performed on it. (not publicly available) Cells have been clustered and non-linear dimension reductions (UMAP/tSNE) have been run. See https://github.com/satijalab/seurat for more info about Seurat.
  * my_data.rds: Scaled R Seurat object for HeatMap visualization. (not publicly available)
- * MarKDOWn.png: Image of documentation containing detailed instructions on how to use the app (can also be found on the "Documentation" tab of the application)
+ * MarKDOWn.pdf: Image of documentation containing detailed instructions on how to use the app (can also be found on the "Documentation" tab of the application)
  * app.R: R Shiny application source code.
 
 REQUIREMENTS
